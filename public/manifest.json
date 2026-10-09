@@ -1,4 +1,5 @@
 [
+  { "student": "Μαρία Καλαϊτζάκη", "appUrl": " https://seal-story-forge.lovable.app", "dataApi": " https://seal-story-forge.lovable.app/data.json" },
   { "student": "Χαράλαμπος Τοτάκης", "appUrl": "https://oracle-stone-visions.lovable.app", "dataApi": "https://oracle-stone-visions.lovable.app/data.json" },
   { "student": "Φίλιππος Λιάκας", "appUrl": "https://shitassaiproject.lovable.app", "dataApi": "https://shitassaiproject.lovable.app/data.json" },
   { "student": "Χρήστος Παπαδόπουλος", "appUrl": "https://minoan-seal-journey.lovable.app", "dataApi": "https://minoan-seal-journey.lovable.app/data.json" }
